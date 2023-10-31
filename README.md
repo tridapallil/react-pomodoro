@@ -19,10 +19,10 @@ This project was developed in React using Hooks and Redux to assist in the effic
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/user/repository-name.git`
-2. Navigate to the directory: `cd repository-name`
+1. Clone the repository
+2. Navigate to the directory
 3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the development server: `npm run dev`
 
 Make sure you have Node.js and npm installed on your machine.
 
